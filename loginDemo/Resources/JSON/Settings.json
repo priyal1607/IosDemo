@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "id" : "1",
+            "title" : "Change Language",
+            "type": "language"
+        }
+    ],
+    "lang_list": [
+        {
+            "language_id": 1,
+            "language_culture": "en",
+            "language_title": "English"
+        },
+        {
+            "language_id": 6,
+            "language_culture": "hi",
+            "language_title": "हिन्दी"
+        }
+    ],
+    
+    
+}
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Setting View Controller-->
+        <scene sceneID="SZu-QC-eTY">
+            <objects>
+                <viewController storyboardIdentifier="SettingViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="0Yd-im-2EX" customClass="SettingViewController" customModule="loginDemo" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="BNi-Oo-CSY">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nWS-gh-UeN">
+                                <rect key="frame" x="0.0" y="48" width="414" height="848"/>
+                                <subviews>
+                                    <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" contentInsetAdjustmentBehavior="never" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="4Py-Xn-ub7">
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="814"/>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </tableView>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstItem="4Py-Xn-ub7" firstAttribute="top" secondItem="nWS-gh-UeN" secondAttribute="top" id="1Cm-dT-CA2"/>
+                                    <constraint firstAttribute="trailing" secondItem="4Py-Xn-ub7" secondAttribute="trailing" id="FfO-kh-1qg"/>
+                                    <constraint firstItem="4Py-Xn-ub7" firstAttribute="leading" secondItem="nWS-gh-UeN" secondAttribute="leading" id="Wvl-5F-f62"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="je8-ef-EaM"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="nWS-gh-UeN" secondAttribute="bottom" id="RRL-ib-IIk"/>
+                            <constraint firstItem="je8-ef-EaM" firstAttribute="bottom" secondItem="4Py-Xn-ub7" secondAttribute="bottom" id="fdj-4M-Jfc"/>
+                            <constraint firstItem="nWS-gh-UeN" firstAttribute="top" secondItem="je8-ef-EaM" secondAttribute="top" id="kPY-6s-zvy"/>
+                            <constraint firstItem="nWS-gh-UeN" firstAttribute="trailing" secondItem="je8-ef-EaM" secondAttribute="trailing" id="uMY-nN-fnc"/>
+                            <constraint firstItem="nWS-gh-UeN" firstAttribute="leading" secondItem="je8-ef-EaM" secondAttribute="leading" id="ycw-wo-DOp"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="mainView" destination="nWS-gh-UeN" id="oqq-MI-tGI"/>
+                        <outlet property="settingTblView" destination="4Py-Xn-ub7" id="TLi-PJ-XvO"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xWv-22-nfg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-116" y="-68"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

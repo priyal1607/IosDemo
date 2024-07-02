@@ -1,0 +1,305 @@
+{
+    "data": [
+{
+    "title": "Mandir",
+    "viewtype": "banner",
+    "categoryId": "11",
+    "list": [
+        {
+            "_id" : "1",
+            "videos_title" : "Trending Articles 1",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-022.mp4",
+            "videos_thumbnail": "mandir_1"
+        },
+        {
+            "_id" : "2",
+            "videos_title" : "Trending Articles 2",
+            "videos_description" : "Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-017.mp4",
+            "videos_thumbnail": "mandir_2"
+        },
+        {
+            "_id" : "3",
+            "videos_title" : "Trending Articles 3",
+            "videos_description" : "If you want to come up with descriptions fast and easy, try vidIQ's AI Description Generator. It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-024.mp4",
+            "videos_thumbnail": "mandir_1"
+            
+        },
+        {
+            "_id" : "4",
+            "videos_title" : "Trending Articles 4",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/mahakal/mahadev-status-video-156.mp4",
+            "videos_thumbnail": "mandir_2"
+        },
+        {
+            "_id" : "5",
+            "videos_title" : "Trending Articles 5",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/mahakal/mahadev-status-video-116.mp4",
+            "videos_thumbnail": "mandir_1"
+        }
+    ]
+},
+{
+    "title": "Shiv Ji",
+    "viewtype": "shorts",
+    "categoryId": "11",
+    "list": [
+        {
+            "_id" : "1",
+            "videos_title" : "Trending Articles 1",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-022.mp4",
+            "videos_thumbnail": "mandir_2"
+        },
+        {
+            "_id" : "2",
+            "videos_title" : "Trending Articles 2",
+            "videos_description" : "Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-017.mp4",
+            "videos_thumbnail": "mandir_2"
+        },
+        {
+            "_id" : "3",
+            "videos_title" : "Trending Articles 3",
+            "videos_description" : "If you want to come up with descriptions fast and easy, try vidIQ's AI Description Generator. It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-024.mp4",
+            "videos_thumbnail": "mandir_2"
+            
+        },
+        {
+            "_id" : "4",
+            "videos_title" : "Trending Articles 4",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/mahakal/mahadev-status-video-156.mp4",
+            "videos_thumbnail": "mandir_2"
+        },
+        
+    ]
+},
+{
+    "title": "Rishi",
+    "viewtype": "shorts",
+    "categoryId": "11",
+    "list" : [
+        {
+            "_id" : "1",
+            "videos_title" : "Trending Articles 1",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-022.mp4",
+            "videos_thumbnail": "mandir_1"
+        },
+    ]
+},
+{
+    "title": "Vishnu Ji",
+    "viewtype": "shorts",
+    "categoryId": "11",
+    "list": [
+        {
+            "_id" : "1",
+            "videos_title" : "Trending Articles 1",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-022.mp4",
+            "videos_thumbnail": "mandir_1"
+        },
+        {
+            "_id" : "2",
+            "videos_title" : "Trending Articles 2",
+            "videos_description" : "Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-017.mp4",
+            "videos_thumbnail": "mandir_1"
+        },
+        {
+            "_id" : "3",
+            "videos_title" : "Trending Articles 3",
+            "videos_description" : "If you want to come up with descriptions fast and easy, try vidIQ's AI Description Generator. It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-024.mp4",
+            "videos_thumbnail": "mandir_1"
+            
+        },
+        {
+            "_id" : "4",
+            "videos_title" : "Trending Articles 4",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/mahakal/mahadev-status-video-156.mp4",
+            "videos_thumbnail": "mandir_1"
+        },
+        
+    ]
+},
+{
+    "title": "Shakti",
+    "viewtype": "photos",
+    "description": "Image descriptions can define photos, graphics, gifs, and video — basically anything containing visual information.",
+    "categoryId": "11",
+    "list": [
+        {
+            "_id" : "1",
+            "videos_title" : "Trending Articles 1",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-022.mp4",
+            "videos_thumbnail": "mandir_1"
+        },
+        {
+            "_id" : "2",
+            "videos_title" : "Trending Articles 2",
+            "videos_description" : "Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-017.mp4",
+            "videos_thumbnail": "mandir_2"
+        },
+        {
+            "_id" : "3",
+            "videos_title" : "Trending Articles 3",
+            "videos_description" : "If you want to come up with descriptions fast and easy, try vidIQ's AI Description Generator. It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-024.mp4",
+            "videos_thumbnail": "mandir_1"
+            
+        },
+      
+        
+    ]
+},
+{
+    "title": "Mantras & Chants",
+    "viewtype": "mantras",
+    "categoryId": "11",
+    "list": [
+        {
+            "_id" : "1",
+            "videos_title" : "Lakshmiji",
+            "videos_thumbnail": "MantrasChantsImg1",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-022.mp4",
+        },
+        {
+            "_id" : "2",
+            "videos_title" : "Shivji",
+            "videos_thumbnail": "MantrasChantsImg2",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-017.mp4",
+        },
+        {
+            "_id" : "3",
+            "videos_title" : "Ganeshji",
+            "videos_thumbnail": "MantrasChantsImg3",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-024.mp4",
+        },
+        {
+            "_id" : "4",
+            "videos_title" : "Vishnuji",
+            "videos_thumbnail": "MantrasChantsImg3",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/mahakal/mahadev-status-video-156.mp4",
+        },
+        {
+            "_id" : "5",
+            "videos_title" : "Krishnaji",
+            "videos_thumbnail": "MantrasChantsImg5",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/mahakal/mahadev-status-video-116.mp4",
+        },
+        {
+            "_id" : "6",
+            "videos_title" : "Kali Man",
+            "videos_thumbnail": "MantrasChantsImg6",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-022.mp4",
+        },
+        {
+            "_id" : "7",
+            "videos_title" : "Ramji",
+            "videos_thumbnail": "MantrasChantsImg3",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-017.mp4",
+        }
+    ]
+},
+{
+    "title": "Trending Articles",
+    "viewtype": "trendingArticles",
+    "categoryId": "11",
+    "list": [
+        {
+            "_id" : "1",
+            "videos_title" : "Trending Articles 1",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-022.mp4",
+            "videos_thumbnail": "trendingArticles_1"
+        },
+        {
+            "_id" : "2",
+            "videos_title" : "Trending Articles 2",
+            "videos_description" : "Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-017.mp4",
+            "videos_thumbnail": "MantrasChantsImg5"
+        },
+        {
+            "_id" : "3",
+            "videos_title" : "Trending Articles 3",
+            "videos_description" : "If you want to come up with descriptions fast and easy, try vidIQ's AI Description Generator. It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-024.mp4",
+            "videos_thumbnail": "trendingArticles_3"
+            
+        },
+        {
+            "_id" : "4",
+            "videos_title" : "Trending Articles 4",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/mahakal/mahadev-status-video-156.mp4",
+            "videos_thumbnail": "MantrasChantsImg5"
+        },
+        {
+            "_id" : "5",
+            "videos_title" : "Trending Articles 5",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/mahakal/mahadev-status-video-116.mp4",
+            "videos_thumbnail": "trendingArticles_5"
+        }
+    ]
+},
+{
+    "title": "Popular Videos",
+    "viewtype": "vertical",
+    "categoryId": "11",
+    "list": [
+        {
+            "_id" : "1",
+            "videos_title" : "Trending Articles 1",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-022.mp4",
+            "videos_thumbnail": "MantrasChantsImg5"
+        },
+        {
+            "_id" : "2",
+            "videos_title" : "Trending Articles 2",
+            "videos_description" : "Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-017.mp4",
+            "videos_thumbnail": "MantrasChantsImg5"
+        },
+        {
+            "_id" : "3",
+            "videos_title" : "Trending Articles 3",
+            "videos_description" : "If you want to come up with descriptions fast and easy, try vidIQ's AI Description Generator. It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/hanuman/hanuman-status-024.mp4",
+            "videos_thumbnail": "MantrasChantsImg5"
+            
+        },
+        {
+            "_id" : "4",
+            "videos_title" : "Trending Articles 4",
+            "videos_description" : "It allows you to type in keywords that describe your video, see a few description options, and choose the right one for your content. Best of all, you get three free descriptions each month when you sign up for a free vidIQ account.",
+            "videos_url": "https://www.statuslagao.com/whatsapp/videos/mahakal/mahadev-status-video-156.mp4",
+            "videos_thumbnail": "MantrasChantsImg5"
+        },
+    ]
+},
+
+
+
+
+
+
+
+    ]
+}
+
+
+

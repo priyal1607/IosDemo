@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="TopStackContainerView" customModule="loginDemo" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="138" height="47"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Lm6-GP-gd1">
+                    <rect key="frame" x="0.0" y="0.0" width="138" height="47"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gRX-sg-L7a">
+                            <rect key="frame" x="5" y="5" width="128" height="37"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="gRX-sg-L7a" secondAttribute="trailing" constant="5" id="6eH-g4-twx"/>
+                        <constraint firstItem="gRX-sg-L7a" firstAttribute="leading" secondItem="Lm6-GP-gd1" secondAttribute="leading" constant="5" id="AI9-Pk-keK"/>
+                        <constraint firstAttribute="bottom" secondItem="gRX-sg-L7a" secondAttribute="bottom" constant="5" id="AkP-zB-NrM"/>
+                        <constraint firstItem="gRX-sg-L7a" firstAttribute="top" secondItem="Lm6-GP-gd1" secondAttribute="top" constant="5" id="OXR-o9-JiT"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6jf-66-KQc">
+                    <rect key="frame" x="10" y="49" width="118" height="8"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="8" id="aMJ-FI-FKK"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yne-6r-twO">
+                    <rect key="frame" x="0.0" y="0.0" width="138" height="47"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="yne-6r-twO" firstAttribute="leading" secondItem="Lm6-GP-gd1" secondAttribute="leading" id="5W1-Gi-0Bm"/>
+                <constraint firstItem="6jf-66-KQc" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="10" id="ARl-lE-vfq"/>
+                <constraint firstItem="Lm6-GP-gd1" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="ENB-6O-34J"/>
+                <constraint firstItem="yne-6r-twO" firstAttribute="trailing" secondItem="Lm6-GP-gd1" secondAttribute="trailing" id="FGH-kv-TmJ"/>
+                <constraint firstAttribute="trailing" secondItem="6jf-66-KQc" secondAttribute="trailing" constant="10" id="Mr5-Yg-Ajj"/>
+                <constraint firstItem="yne-6r-twO" firstAttribute="bottom" secondItem="Lm6-GP-gd1" secondAttribute="bottom" id="UqH-A8-ucm"/>
+                <constraint firstAttribute="bottom" secondItem="6jf-66-KQc" secondAttribute="bottom" constant="-10" id="XA4-Ph-TdI"/>
+                <constraint firstAttribute="trailing" secondItem="Lm6-GP-gd1" secondAttribute="trailing" id="fK1-sU-Llc"/>
+                <constraint firstItem="yne-6r-twO" firstAttribute="top" secondItem="Lm6-GP-gd1" secondAttribute="top" id="jZM-JJ-TrU"/>
+                <constraint firstAttribute="bottom" secondItem="Lm6-GP-gd1" secondAttribute="bottom" id="ncU-6D-4VK"/>
+                <constraint firstItem="Lm6-GP-gd1" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="vNG-Gq-7Cz"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="btnView" destination="yne-6r-twO" id="eNZ-5S-tzq"/>
+                <outlet property="lblTitle" destination="gRX-sg-L7a" id="lk9-Lp-qky"/>
+                <outlet property="sepView" destination="6jf-66-KQc" id="hUQ-EY-f2p"/>
+            </connections>
+            <point key="canvasLocation" x="102.89855072463769" y="62.611607142857139"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

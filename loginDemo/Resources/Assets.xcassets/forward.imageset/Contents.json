@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "iconfinder-backward-back-arrow-previous-left-4593199_122265.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "template"
+  }
+}

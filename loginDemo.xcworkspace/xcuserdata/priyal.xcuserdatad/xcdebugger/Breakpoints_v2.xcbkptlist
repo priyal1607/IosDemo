@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B1F19C01-ECB0-4723-9DD3-3784F9271DE9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9F3FB54-4211-4D34-8DE5-80AEFAF03594"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loginDemo/Extensions/UICollectionViewCenterLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "add(attribute:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D9F3FB54-4211-4D34-8DE5-80AEFAF03594 - d6525a02d0e98a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loginDemo.CollectionViewRowCenter.add(attribute: __C.UICollectionViewLayoutAttributes) -&gt; ()"
+                  moduleName = "loginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyal/Documents/loginDemo-2%202/loginDemo/Extensions/UICollectionViewCenterLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "D9F3FB54-4211-4D34-8DE5-80AEFAF03594 - d6525a02d0e98a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loginDemo.CollectionViewRowCenter.add(attribute: __C.UICollectionViewLayoutAttributes) -&gt; ()"
+                  moduleName = "loginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyal/Documents/loginDemo-2%202/loginDemo/Extensions/UICollectionViewCenterLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  uuid = "D9F3FB54-4211-4D34-8DE5-80AEFAF03594 - 7f2a374046f9e68f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loginDemo.CollectionViewRowCenter.add(attribute: __C.UICollectionViewLayoutAttributes) -&gt; ()"
+                  moduleName = "loginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyal/Documents/Priyal_Projects/loginDemo-2%202/loginDemo/Extensions/UICollectionViewCenterLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "38">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FE97A52-5F2E-462B-8AA8-F27D1CC8010B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loginDemo/Extensions/UICollectionViewCenterLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "rowWidth"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4FE97A52-5F2E-462B-8AA8-F27D1CC8010B - f189d14c7a6957ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loginDemo.CollectionViewRowCenter.rowWidth.getter : CoreGraphics.CGFloat"
+                  moduleName = "loginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyal/Documents/loginDemo-2%202/loginDemo/Extensions/UICollectionViewCenterLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "4FE97A52-5F2E-462B-8AA8-F27D1CC8010B - f189d14c7a6957ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loginDemo.CollectionViewRowCenter.rowWidth.getter : CoreGraphics.CGFloat"
+                  moduleName = "loginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyal/Documents/loginDemo-2%202/loginDemo/Extensions/UICollectionViewCenterLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "4FE97A52-5F2E-462B-8AA8-F27D1CC8010B - 83c6c3ac119e2593"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loginDemo.CollectionViewRowCenter.rowWidth.getter : CoreGraphics.CGFloat"
+                  moduleName = "loginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyal/Documents/Priyal_Projects/loginDemo-2%202/loginDemo/Extensions/UICollectionViewCenterLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "150">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACA8169E-8E5E-40BE-BF0D-517DDC86F37C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loginDemo/Extensions/UICollectionViewCenterLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "centerLayout(collectionViewWidth:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ACA8169E-8E5E-40BE-BF0D-517DDC86F37C - 194690be9580ddca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loginDemo.CollectionViewRowCenter.centerLayout(collectionViewWidth: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "loginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyal/Documents/loginDemo-2%202/loginDemo/Extensions/UICollectionViewCenterLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "ACA8169E-8E5E-40BE-BF0D-517DDC86F37C - 194690be9580ddca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loginDemo.CollectionViewRowCenter.centerLayout(collectionViewWidth: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "loginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyal/Documents/loginDemo-2%202/loginDemo/Extensions/UICollectionViewCenterLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "369">
+               </Location>
+               <Location
+                  uuid = "ACA8169E-8E5E-40BE-BF0D-517DDC86F37C - 6b09825efe77afe1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loginDemo.CollectionViewRowCenter.centerLayout(collectionViewWidth: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "loginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyal/Documents/Priyal_Projects/loginDemo-2%202/loginDemo/Extensions/UICollectionViewCenterLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "369">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

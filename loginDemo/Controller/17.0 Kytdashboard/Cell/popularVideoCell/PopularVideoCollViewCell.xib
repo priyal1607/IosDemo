@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-SemiBold.ttf">
+            <string>Poppins-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="PopularVideoCollViewCell" customModule="loginDemo" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="292" height="196"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="292" height="196"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YxG-Ws-Qtl">
+                        <rect key="frame" x="0.0" y="0.0" width="292" height="196"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="jZf-jm-j75">
+                                <rect key="frame" x="0.0" y="0.0" width="292" height="196"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xeB-qB-WdL">
+                                <rect key="frame" x="16" y="163" width="260" height="28"/>
+                                <fontDescription key="fontDescription" name="Poppins-SemiBold" family="Poppins" pointSize="20"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="xeB-qB-WdL" firstAttribute="trailing" secondItem="jZf-jm-j75" secondAttribute="trailing" constant="-16" id="QLQ-2Y-5KY"/>
+                            <constraint firstItem="jZf-jm-j75" firstAttribute="leading" secondItem="YxG-Ws-Qtl" secondAttribute="leading" id="Toc-sc-X3v"/>
+                            <constraint firstItem="jZf-jm-j75" firstAttribute="top" secondItem="YxG-Ws-Qtl" secondAttribute="top" id="Z0L-8u-cl0"/>
+                            <constraint firstAttribute="bottom" secondItem="jZf-jm-j75" secondAttribute="bottom" id="jOi-rb-9x1"/>
+                            <constraint firstItem="xeB-qB-WdL" firstAttribute="leading" secondItem="jZf-jm-j75" secondAttribute="leading" constant="16" id="kc4-NC-SrI"/>
+                            <constraint firstAttribute="trailing" secondItem="jZf-jm-j75" secondAttribute="trailing" id="lQX-Rh-sKZ"/>
+                            <constraint firstItem="xeB-qB-WdL" firstAttribute="bottom" secondItem="jZf-jm-j75" secondAttribute="bottom" constant="-5" id="ltU-cT-now"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="YxG-Ws-Qtl" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="GzJ-jI-Rgx"/>
+                <constraint firstAttribute="trailing" secondItem="YxG-Ws-Qtl" secondAttribute="trailing" id="WOv-Nh-nPw"/>
+                <constraint firstAttribute="bottom" secondItem="YxG-Ws-Qtl" secondAttribute="bottom" id="acJ-0D-0cY"/>
+                <constraint firstItem="YxG-Ws-Qtl" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="qfK-Xd-03u"/>
+            </constraints>
+            <size key="customSize" width="292" height="196"/>
+            <connections>
+                <outlet property="img" destination="jZf-jm-j75" id="PDq-Io-d26"/>
+                <outlet property="lbl" destination="xeB-qB-WdL" id="23I-Ed-sVC"/>
+                <outlet property="mainView" destination="YxG-Ws-Qtl" id="8f1-WY-XyQ"/>
+            </connections>
+            <point key="canvasLocation" x="372.51908396946561" y="40.140845070422536"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

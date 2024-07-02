@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ic_rishi_ji.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

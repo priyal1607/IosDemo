@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="TrendingArticleCollViewCell" customModule="loginDemo" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="192" height="232"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="192" height="232"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KMv-AT-UiB">
+                        <rect key="frame" x="0.0" y="0.0" width="192" height="232"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Ya6-aa-Q9t">
+                                <rect key="frame" x="0.0" y="0.0" width="192" height="232"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="H0q-nX-a5O">
+                                <rect key="frame" x="164.66666666666666" y="0.0" width="27.333333333333343" height="30"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_article_pencil" translatesAutoresizingMaskIntoConstraints="NO" id="PH0-AE-fUf">
+                                        <rect key="frame" x="1" y="0.0" width="21.333333333333332" height="30"/>
+                                        <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstItem="PH0-AE-fUf" firstAttribute="leading" secondItem="H0q-nX-a5O" secondAttribute="leading" constant="1" id="BSv-5S-tqT"/>
+                                    <constraint firstAttribute="width" secondItem="H0q-nX-a5O" secondAttribute="height" multiplier="1:1.1" id="BTN-0U-dej"/>
+                                    <constraint firstAttribute="trailing" secondItem="PH0-AE-fUf" secondAttribute="trailing" constant="5" id="EmZ-92-6gn"/>
+                                    <constraint firstAttribute="height" constant="30" id="Q1Z-nn-z8M"/>
+                                    <constraint firstAttribute="bottom" secondItem="PH0-AE-fUf" secondAttribute="bottom" id="dQV-bM-f2E"/>
+                                    <constraint firstItem="PH0-AE-fUf" firstAttribute="top" secondItem="H0q-nX-a5O" secondAttribute="top" id="ybm-18-BTH"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="Ya6-aa-Q9t" firstAttribute="leading" secondItem="KMv-AT-UiB" secondAttribute="leading" id="1CB-nS-eZd"/>
+                            <constraint firstItem="Ya6-aa-Q9t" firstAttribute="top" secondItem="KMv-AT-UiB" secondAttribute="top" id="8b3-Nd-XRW"/>
+                            <constraint firstAttribute="trailing" secondItem="H0q-nX-a5O" secondAttribute="trailing" id="VFP-VS-4M4"/>
+                            <constraint firstItem="H0q-nX-a5O" firstAttribute="top" secondItem="KMv-AT-UiB" secondAttribute="top" id="Vxh-29-SGW"/>
+                            <constraint firstAttribute="bottom" secondItem="Ya6-aa-Q9t" secondAttribute="bottom" id="pHu-dx-OK2"/>
+                            <constraint firstAttribute="trailing" secondItem="Ya6-aa-Q9t" secondAttribute="trailing" id="znt-Cr-Awc"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="KMv-AT-UiB" secondAttribute="bottom" id="0Af-tP-Cvn"/>
+                <constraint firstItem="KMv-AT-UiB" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="F3a-cy-H3f"/>
+                <constraint firstAttribute="trailing" secondItem="KMv-AT-UiB" secondAttribute="trailing" id="PHY-F4-eQ1"/>
+                <constraint firstItem="KMv-AT-UiB" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="pYe-Ox-PrA"/>
+            </constraints>
+            <size key="customSize" width="192" height="232"/>
+            <connections>
+                <outlet property="img" destination="Ya6-aa-Q9t" id="9m0-xr-hgE"/>
+                <outlet property="imgView" destination="H0q-nX-a5O" id="ZEi-bW-MHw"/>
+                <outlet property="mainView" destination="KMv-AT-UiB" id="fy8-uH-MTk"/>
+            </connections>
+            <point key="canvasLocation" x="154.19847328244273" y="59.859154929577471"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="ic_article_pencil" width="57" height="64"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

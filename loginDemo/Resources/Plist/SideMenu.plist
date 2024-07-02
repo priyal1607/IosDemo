@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>TitleKey</key>
+		<string>Dashboard</string>
+		<key>storyboardID</key>
+		<string>dashboard</string>
+		<key>Image</key>
+		<string>dashboard</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>Student List</string>
+		<key>storyboardID</key>
+		<string>student_list</string>
+		<key>Image</key>
+		<string>Gallery</string>
+		<key>MoreOptions</key>
+		<array>
+			<dict>
+				<key>TitleKey</key>
+				<string>Gallery View</string>
+				<key>storyboardID</key>
+				<string>gallery_view</string>
+				<key>Image</key>
+				<string>Gallery</string>
+			</dict>
+			<dict>
+				<key>TitleKey</key>
+				<string>List View</string>
+				<key>storyboardID</key>
+				<string>list_view</string>
+				<key>Image</key>
+				<string>Gallery</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>Customize Dashboard</string>
+		<key>storyboardID</key>
+		<string>Customize Dashboard</string>
+		<key>Image</key>
+		<string>calendar</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>MY MEA</string>
+		<key>storyboardID</key>
+		<string>MY MEA</string>
+		<key>Image</key>
+		<string>dashboard</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>Search</string>
+		<key>storyboardID</key>
+		<string>Search</string>
+		<key>Image</key>
+		<string>fire</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>NPS</string>
+		<key>storyboardID</key>
+		<string>NPS</string>
+		<key>Image</key>
+		<string>setting</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>New Dashboard</string>
+		<key>storyboardID</key>
+		<string>NewDashboard</string>
+		<key>Image</key>
+		<string>setting</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>Language</string>
+		<key>storyboardID</key>
+		<string>Language</string>
+		<key>Image</key>
+		<string>world</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>Gallery</string>
+		<key>storyboardID</key>
+		<string>Gallery</string>
+		<key>Image</key>
+		<string>Gallery</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>Indian Mission Abroad</string>
+		<key>storyboardID</key>
+		<string>Indian Mission Abroad</string>
+		<key>Image</key>
+		<string>dashboard</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>KYT dashboard</string>
+		<key>storyboardID</key>
+		<string>Kytdashboard</string>
+		<key>Image</key>
+		<string>kytdashboard</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>SAG</string>
+		<key>storyboardID</key>
+		<string>SAG</string>
+		<key>Image</key>
+		<string>kytdashboard</string>
+	</dict>
+</array>
+</plist>

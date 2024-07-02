@@ -1,0 +1,128 @@
+{
+  "pran": "110111416197",
+  "userName": "KUMARI ISHI JAIN ",
+  "tier1": {
+    "schemes": [
+      {
+        "schemeId": "SM008001",
+        "schemeName": "HDFC PENSION MANAGEMENT COMPANY LIMITED SCHEME E - TIER I",
+        "units": 26060.9204,
+        "freeUnits": 26060.9204,
+        "blckdUnits": 0,
+        "nav": 41.2314,
+        "navDate": "15/09/2023",
+        "value": 1074528.23,
+        "schPercentage": 0
+      },
+      {
+        "schemeId": "SM008002",
+        "schemeName": "HDFC PENSION MANAGEMENT COMPANY LIMITED SCHEME C - TIER I",
+        "units": 23264.1455,
+        "freeUnits": 23264.1455,
+        "blckdUnits": 0,
+        "nav": 24.6757,
+        "navDate": "15/09/2023",
+        "value": 574059.07,
+        "schPercentage": 0
+      },
+      {
+        "schemeId": "SM008003",
+        "schemeName": "HDFC PENSION MANAGEMENT COMPANY LIMITED SCHEME G - TIER I",
+        "units": 15936.6445,
+        "freeUnits": 15936.6445,
+        "blckdUnits": 0,
+        "nav": 23.9748,
+        "navDate": "15/09/2023",
+        "value": 382077.86,
+        "schPercentage": 0
+      },
+      {
+        "schemeId": "SM008001",
+        "schemeName": "HDFC PENSION MANAGEMENT COMPANY LIMITED SCHEME E - TIER I",
+        "units": 26060.9204,
+        "freeUnits": 26060.9204,
+        "blckdUnits": 0,
+        "nav": 41.2314,
+        "navDate": "15/09/2023",
+        "value": 1074528.23,
+        "schPercentage": 0
+      },
+      {
+        "schemeId": "SM008002",
+        "schemeName": "HDFC PENSION MANAGEMENT COMPANY LIMITED SCHEME C - TIER I",
+        "units": 23264.1455,
+        "freeUnits": 23264.1455,
+        "blckdUnits": 0,
+        "nav": 24.6757,
+        "navDate": "15/09/2023",
+        "value": 574059.07,
+        "schPercentage": 0
+      },
+      {
+        "schemeId": "SM008003",
+        "schemeName": "HDFC PENSION MANAGEMENT COMPANY LIMITED SCHEME G - TIER I",
+        "units": 15936.6445,
+        "freeUnits": 15936.6445,
+        "blckdUnits": 0,
+        "nav": 23.9748,
+        "navDate": "15/09/2023",
+        "value": 382077.86,
+        "schPercentage": 0
+      }
+    ],
+    "amtInTransit": 0,
+    "total": 2030665.16,
+    "message": "Tier Status-Active"
+  },
+  "tier2": {
+    "schemes": [
+      {
+        "schemeId": "SM007004",
+        "schemeName": "ICICI PRUDENTIAL PENSION FUND SCHEME E - TIER II",
+        "units": 1385.5273,
+        "freeUnits": 1385.5273,
+        "blckdUnits": 0,
+        "nav": 43.9118,
+        "navDate": "15/09/2023",
+        "value": 60840.99,
+        "schPercentage": 0
+      },
+      {
+        "schemeId": "SM007005",
+        "schemeName": "ICICI PRUDENTIAL PENSION FUND  SCHEME C - TIER II",
+        "units": 920.6999,
+        "freeUnits": 920.6999,
+        "blckdUnits": 0,
+        "nav": 34.5825,
+        "navDate": "15/09/2023",
+        "value": 31840.1,
+        "schPercentage": 0
+      },
+      {
+        "schemeId": "SM007006",
+        "schemeName": "ICICI PRUDENTIAL PENSION FUND  SCHEME G - TIER II",
+        "units": 690.1476,
+        "freeUnits": 690.1476,
+        "blckdUnits": 0,
+        "nav": 30.7452,
+        "navDate": "15/09/2023",
+        "value": 21218.72,
+        "schPercentage": 0
+      }
+    ],
+    "amtInTransit": 0,
+    "total": 113899.81,
+    "message": "Tier Status-Active"
+  },
+  "tier3": {
+    "schemes": [],
+    "amtInTransit": 0,
+    "total": 0,
+    "message": "No Schemes"
+  },
+  "totalValue": 2144564.97,
+  "asOnDate": "18/09/2023",
+  "statusCode": 0,
+  "errorDescription": "success",
+  "fieldErrors": null
+}

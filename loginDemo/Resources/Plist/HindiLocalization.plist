@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dashboard</key>
+	<string>डैशबोर्ड</string>
+	<key>No Record Found</key>
+	<string>कोई रिकॉर्ड नहीं मिला</string>
+	<key>Record Found</key>
+	<string>रिकॉर्ड मिला</string>
+	<key>Pull to Refresh</key>
+	<string>रीफ़्रेश करने के लिए खींचें</string>
+	<key>Internet Issue</key>
+	<string>हम किसी भी इंटरनेट कनेक्टिविटी का पता नहीं लगा सकते हैं। अपने इंटरनेट कनेक्शन की जाँच करें और पुन: प्रयास करें।</string>
+	<key>Connection Error</key>
+	<string>ऐसा लगता है कि एक कनेक्शन समस्या है। बाद में कोशिश करें।</string>
+	<key>Camera Unavailable</key>
+	<string>कैमरा अनुपलब्ध</string>
+	<key>This device has no camera</key>
+	<string>इस डिवाइस में कोई कैमरा नहीं है</string>
+	<key>Unexpected problem</key>
+	<string>आंतरिक सर्वर के साथ कुछ अनपेक्षित समस्या है। कृपया पुन: प्रयास करें।</string>
+	<key>Something went wrong</key>
+	<string>कुछ गलत हो गया</string>
+	<key>Something strange happened</key>
+	<string>कुछ अजीब हुआ</string>
+	<key>Your current internet connection is slow, Please try after some time.</key>
+	<string>आपका वर्तमान इंटरनेट कनेक्शन धीमा है, कृपया कुछ समय बाद प्रयास करें।</string>
+	<key>The request timed out</key>
+	<string>अनुरोध का समय समाप्त हुआ</string>
+	<key>Search</key>
+	<string>खोज</string>
+	<key>Okay</key>
+	<string>ठीक</string>
+	<key>Ok</key>
+	<string>ठीक</string>
+	<key>File name cannot be blank.</key>
+	<string>फ़ाइल का नाम खाली नहीं हो सकता.</string>
+	<key>Video size must be up to 4 MB.</key>
+	<string>वीडियो का आकार 4 एमबी तक होना चाहिए।</string>
+	<key>Continue</key>
+	<string>जारी रखना</string>
+	<key>Select Language</key>
+	<string>भाषा चुने</string>
+	<key>English</key>
+	<string>अंग्रेज़ी</string>
+	<key>Hindi</key>
+	<string>हिंदी</string>
+	<key>Done</key>
+	<string>पूर्ण</string>
+	<key>Cancel</key>
+	<string>रद्द करना</string>
+	<key>Home</key>
+	<string>होम</string>
+	<key>Media</key>
+	<string>मीडिया</string>
+	<key>RTI</key>
+	<string>आर.टी.आई</string>
+	<key>News</key>
+	<string>समाचार</string>
+	<key>Contact</key>
+	<string>संपर्क</string>
+	<key>Settings</key>
+	<string>सेटिंग्स</string>
+	<key>About CTUIL</key>
+	<string>हमारे बारे में</string>
+	<key>Company overview</key>
+	<string>कंपनी अवलोकन</string>
+	<key>Board of Directors</key>
+	<string>निदेशक मंडल</string>
+	<key>Our Milestone</key>
+	<string>हमारा माइलस्टोन</string>
+	<key>Media Gallery</key>
+	<string>मीडिया गैलरी</string>
+	<key>Regulatory Section</key>
+	<string>नियामक अनुभाग</string>
+	<key>Tenders</key>
+	<string>निविदाओं</string>
+	<key>Green Energy</key>
+	<string>हरित ऊर्जा</string>
+	<key>Advisory</key>
+	<string>परामर्शिका</string>
+	<key>Apply NSWS</key>
+	<string>एन.एस.डब्ल्यू.एस लागू करें</string>
+	<key>Feedback</key>
+	<string>प्रतिक्रिया</string>
+	<key>Contact Us</key>
+	<string>संपर्क करें</string>
+	<key>Logout</key>
+	<string>लॉग आउट</string>
+	<key>About CTU</key>
+	<string>हमारे बारे में</string>
+	<key>Planning</key>
+	<string>हस्तांतरण</string>
+	<key>ISTS System</key>
+	<string>आई.एस.टी.एस प्रणाली</string>
+	<key>Renewable Energy</key>
+	<string>नवीकरणीय ऊर्जा</string>
+	<key>Grid Access (OA)</key>
+	<string>ग्रिड एक्सेस</string>
+	<key>BCD</key>
+	<string>बीसीडी</string>
+	<key>Project Monitoring</key>
+	<string>परियोजनाओं निगरानी</string>
+	<key>Tender</key>
+	<string>निविदा</string>
+	<key>Under Development</key>
+	<string>अल्प विकास</string>
+	<key>Character</key>
+	<string>कैरेक्‍टर </string>
+	<key>Please enter first name.</key>
+	<string>कृपया पहला नाम दर्ज करें।</string>
+	<key>Please enter email id.</key>
+	<string>कृपया ईमेल आईडी एंटर करें।</string>
+	<key>Please enter valid email id.</key>
+	<string>कृपया मान्य ईमेल आईडी एंटर करें।</string>
+	<key>Please enter mobile number.</key>
+	<string>कृपया मोबाइल नंबर एंटर करें।</string>
+	<key>Please enter valid mobile number.</key>
+	<string>कृपया वैध मोबाइल नंबर एंटर करें।</string>
+	<key>Select Location</key>
+	<string>स्थान चुनें</string>
+	<key>Please enter subject.</key>
+	<string>कृपया विषय एंटर करें।</string>
+	<key>Please enter message.</key>
+	<string>कृपया संदेश एंटर करें।</string>
+	<key>Please select type.</key>
+	<string>कृपया प्रकार चुनें</string>
+	<key>Select Type</key>
+	<string>प्रकार चुनें</string>
+	<key>Subject</key>
+	<string>विषय</string>
+	<key>Full Name</key>
+	<string>पूरा नाम</string>
+	<key>Email ID</key>
+	<string>ईमेल आईडी</string>
+	<key>Mobile No.</key>
+	<string>मोबाइल नंबर </string>
+	<key>Comment</key>
+	<string>टिप्पणी</string>
+	<key>Characters</key>
+	<string>कैरेक्‍टर </string>
+	<key>Submit</key>
+	<string>सबमिट करें </string>
+	<key>First Name</key>
+	<string>पहला नाम</string>
+	<key>Last Name</key>
+	<string>उपनाम</string>
+	<key>Message</key>
+	<string>संदेश</string>
+	<key>Reset</key>
+	<string>रीसेट</string>
+	<key>Consultation Meetings for ISTS</key>
+	<string>आईएसटीएस के लिए परामर्श बैठकें</string>
+	<key>To Date</key>
+	<string>तारीख तक</string>
+	<key>Keyword</key>
+	<string>कीवर्ड</string>
+	<key>From Date</key>
+	<string>की तिथि से</string>
+	<key>Sr.No.</key>
+	<string>क्रमांक।</string>
+	<key>Meeting</key>
+	<string>बैठक</string>
+	<key>Date</key>
+	<string>तारीख</string>
+	<key>Notice</key>
+	<string>सूचना</string>
+	<key>Agenda</key>
+	<string>कार्यसूची</string>
+	<key>Region</key>
+	<string>क्षेत्र</string>
+	<key>Minutes</key>
+	<string>मिनट</string>
+	<key>Select Region</key>
+	<string>क्षेत्र का चयन करें</string>
+	<key>Region wise meeting</key>
+	<string>प्रदेशवार बैठक</string>
+	<key>Keyword Search</key>
+	<string>संकेत शब्द की खोज</string>
+	<key>Total</key>
+	<string>कुल</string>
+	<key>ISTS Planning &amp; Coordination</key>
+	<string>आई.एस.टी.एस की योजना तथा समन्वयन</string>
+	<key>Joint Co-ordination Committee Meetings</key>
+	<string>संयुक्त समन्वय समिति की बैठकें</string>
+	<key>Communication Planning Meetings for ISTS</key>
+	<string>आईएसटीएस के लिए संचार योजना बैठकें</string>
+	<key>Annual Reports</key>
+	<string>वार्षिक रिपोर्ट्स</string>
+	<key>MGT-7</key>
+	<string>एम जी टी-7</string>
+	<key>Select Month</key>
+	<string>महीना चुनिए</string>
+	<key>Select Year</key>
+	<string>वर्ष का चयन करें</string>
+	<key>PDF</key>
+	<string>पीडीएफ</string>
+	<key>Central Transmission Utility of India Limited</key>
+	<string>सेंट्रल ट्रांसमिशन यूटिलिटी ऑफ़ इंडिया लिमिटेड</string>
+	<key>List of Application Granted</key>
+	<string>स्वीकृत आवेदनों की सूची</string>
+	<key>Filter</key>
+	<string>फ़िल्टर</string>
+	<key>CERC</key>
+	<string>सीईआरसी</string>
+	<key>External Link</key>
+	<string>बाहरी लिंक</string>
+	<key>CEA</key>
+	<string>सीईए</string>
+	<key>Please select year.</key>
+	<string>कृपया वर्ष चुनें।</string>
+	<key>Please select month.</key>
+	<string>कृपया माह चुनें।</string>
+	<key>Formats &amp; Agreements</key>
+	<string>प्रारूप और समझौते</string>
+	<key>GNA</key>
+	<string>जीएनए</string>
+	<key>MOP Documents</key>
+	<string>एमओपी दस्तावेज</string>
+	<key>Relinquishment charges as per 92/MP/2015</key>
+	<string>याचिका सं: 92/MP/2015 के अनुसार रेलिनक्विशमेंट शुल्क</string>
+	<key>Proposals for Stakeholders Comments</key>
+	<string>स्टेक होल्डेर्स की टिप्पणियों हेतु प्रस्ताव</string>
+	<key>Planning Procedure for ISTS</key>
+	<string>आई.एस.टी.एस के लिए योजना प्रक्रिया</string>
+	<key>Reports</key>
+	<string>प्रतिवेदन</string>
+	<key>Procedure for Planning</key>
+	<string>योजना के लिए प्रक्रिया</string>
+	<key>ISTS Communication Plan</key>
+	<string>आई.एस.टी.एस संचार योजना</string>
+	<key>Firewall Specification Proposed for Generators Location</key>
+	<string>जनरेटर स्थान के लिए फ़ायरवॉल विशिष्टता प्रस्तावित</string>
+	<key>MTOA</key>
+	<string>एमटीओए</string>
+	<key>LTA</key>
+	<string>एलटीए</string>
+	<key>Stage-I (Connectivity)</key>
+	<string>चरण- I (कनेक्टिविटी)</string>
+	<key>Stage-II (Connectivity)</key>
+	<string>चरण- II (कनेक्टिविटी)</string>
+	<key>Enhancement (Connectivity)</key>
+	<string>वृद्धि (कनेक्टिविटी)</string>
+	<key>Connectivity (Connectivity)</key>
+	<string>कनेक्टिविटी (कनेक्टिविटी)</string>
+	<key>Online Status of Application</key>
+	<string>आवेदन की ऑनलाइन स्थिति</string>
+	<key>Name of the Applicant</key>
+	<string>आवेदक का नाम</string>
+	<key>Application No.</key>
+	<string>आवेदन संख्या</string>
+	<key>Quantum of MTOA</key>
+	<string>एमटीओए की मात्रा</string>
+	<key>Total Injection/Drawl Quantum (MW)</key>
+	<string>कुल इंजेक्शन/निकासी मात्रा (मेगावाट)</string>
+	<key>Injection State</key>
+	<string>इंजेक्शन राज्य</string>
+	<key>Drawl State</key>
+	<string>आहरण राज्य</string>
+	<key>Injection point to ISTS</key>
+	<string>आईएसटीएस को इंजेक्शन बिंदु</string>
+	<key>Status</key>
+	<string>स्थिति</string>
+	<key>Start Date</key>
+	<string>आरंभ करने की तिथि</string>
+	<key>Start date of Connectivity</key>
+	<string>कनेक्टिविटी की प्रारंभ तिथि</string>
+	<key>End Date</key>
+	<string>समाप्ति तिथि</string>
+	<key>TTC / ATC</key>
+	<string>टीटीसी / एटीसी</string>
+	<key>Change Language</key>
+	<string>भाषा बदलें </string>
+	<key>My Profile</key>
+	<string>मेरी प्रोफाइल</string>
+	<key>Welcome User</key>
+	<string>स्वागत उपयोगकर्ता</string>
+	<key>Welcome to STTL</key>
+	<string>STTL में आपका स्वागत है</string>
+	<key>Follow us on</key>
+	<string>अनुसरण करना</string>
+	<key>Important Links</key>
+	<string>महत्वपूर्ण लिंक</string>
+	<key>Official Website of the corporation</key>
+	<string>निगम की आधिकारिक वेबसाइट</string>
+	<key>Global City Gurugram</key>
+	<string>ग्लोबल सिटी गुरुग्राम</string>
+	<key>Industries Department Haryana</key>
+	<string>उद्योग विभाग हरियाणा</string>
+	<key>Profile Details</key>
+	<string>प्रोफ़ाइल विवरण</string>
+	<key>Allotted plot</key>
+	<string>आवंटित प्लॉट</string>
+	<key>Payment History</key>
+	<string>भुगतान इतिहास</string>
+	<key>Make Payment</key>
+	<string>भुगतान करें</string>
+	<key>Due/Outstanding</key>
+	<string>देय/बकाया</string>
+	<key>Track Service</key>
+	<string>ट्रैक सेवा</string>
+	<key>Student List</key>
+	<string>छात्र सूची</string>
+	<key>Gallery View</key>
+	<string>गैलरी दृश्य</string>
+	<key>List View</key>
+	<string>लिस्ट व्यू</string>
+	<key>Attendance</key>
+	<string>उपस्थिति</string>
+	<key>Official Holidays</key>
+	<string>आधिकारिक छुट्टियाँ</string>
+	<key>New Dashboard</key>
+	<string>नया डैशबोर्ड</string>
+	<key>Language</key>
+	<string>भाषा</string>
+	<key>Priyal Savaliya</key>
+	<string>प्रियल सांवलिया</string>
+	<key>ios</key>
+	<string>आईओएस</string>
+</dict>
+</plist>

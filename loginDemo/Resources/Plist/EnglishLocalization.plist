@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>No Record Found</key>
+	<string>No Record Found</string>
+	<key>Record Found</key>
+	<string>Record Found</string>
+	<key>Pull to Refresh</key>
+	<string>Pull to Refresh</string>
+	<key>Internet Issue</key>
+	<string>We can&apos;t detect any internet connectivity. Please check your internet connection and try again.</string>
+	<key>Connection Error</key>
+	<string>There seems to be a connection problem. Please try later.</string>
+	<key>Camera Unavailable</key>
+	<string>Camera Unavailable</string>
+	<key>This device has no camera</key>
+	<string>This device has no camera</string>
+	<key>Unexpected problem</key>
+	<string>There&apos;s some unexpected problem with the internal server. Please try again.</string>
+	<key>Something went wrong</key>
+	<string>Something went wrong</string>
+	<key>Something strange happened</key>
+	<string>Something strange happened</string>
+	<key>Your current internet connection is slow, Please try after some time.</key>
+	<string>Your current internet connection is slow, Please try after some time.</string>
+	<key>The request timed out</key>
+	<string>The request timed out</string>
+	<key>Search</key>
+	<string>Search</string>
+	<key>Okay</key>
+	<string>Okay</string>
+	<key>Ok</key>
+	<string>Ok</string>
+	<key>File name cannot be blank.</key>
+	<string>File name cannot be blank.</string>
+	<key>Video size must be up to 4 MB.</key>
+	<string>Video size must be up to 4 MB.</string>
+	<key>Continue</key>
+	<string>Continue</string>
+	<key>Select Language</key>
+	<string>Select Language</string>
+	<key>English</key>
+	<string>English</string>
+	<key>Hindi</key>
+	<string>Hindi</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Email</key>
+	<string>Email</string>
+	<key>Please select one Register Category.</key>
+	<string>Please select one Register Category.</string>
+	<key>Please enter email id.</key>
+	<string>Please enter email id.</string>
+	<key>Please enter valid email id.</key>
+	<string>Please enter valid email id.</string>
+	<key>Please enter player name</key>
+	<string>Please enter player name</string>
+	<key>Please select one sport category.</key>
+	<string>Please select one sport category.</string>
+	<key>Please enter valid password </key>
+	<string>Please enter valid password </string>
+	<key>Please enter password</key>
+	<string>Please enter password</string>
+	<key>Please enter aadhar number</key>
+	<string>Please enter aadhar number</string>
+	<key>Please enter valid aadhar number</key>
+	<string>Please enter valid aadhar number</string>
+	<key>Please enter password.</key>
+	<string>Please enter password.</string>
+	<key>Please enter confirm password</key>
+	<string>Please enter confirm password</string>
+	<key>Password and Confirm Password should be same</key>
+	<string>Password and Confirm Password should be same</string>
+	<key>Please agree terms and conditions.</key>
+	<string>Please agree terms and conditions.</string>
+	<key>Players List</key>
+	<string>Players List</string>
+	<key>Dietitian</key>
+	<string>Dietitian</string>
+	<key>Camps</key>
+	<string>Camps</string>
+	<key>Gallery &amp; Press Release</key>
+	<string>Gallery &amp; Press Release</string>
+	<key>Gallery</key>
+	<string>Gallery</string>
+	<key>Language</key>
+	<string>Language</string>
+	<key>My Profile</key>
+	<string>My Profile</string>
+	<key>Welcome User</key>
+	<string>Welcome User</string>
+	<key>Welcome to STTL</key>
+	<string>Welcome to STTL</string>
+	<key>Dashboard</key>
+	<string>Dashboard</string>
+	<key>Follow us on</key>
+	<string>Follow us on</string>
+	<key>Important Links</key>
+	<string>Important Links</string>
+	<key>Official Website of the corporation</key>
+	<string>Official Website of the corporation</string>
+	<key>Global City Gurugram</key>
+	<string>Global City Gurugram</string>
+	<key>Industries Department Haryana</key>
+	<string>Industries Department Haryana</string>
+	<key>Profile Details</key>
+	<string>Profile Details</string>
+	<key>Allotted plot</key>
+	<string>Allotted plot</string>
+	<key>Payment History</key>
+	<string>Payment History</string>
+	<key>Make Payment</key>
+	<string>Make Payment</string>
+	<key>Due/Outstanding</key>
+	<string>Due/Outstanding</string>
+	<key>Track Service</key>
+	<string>Track Service</string>
+	<key>Student List</key>
+	<string>Student List</string>
+	<key>Gallery View</key>
+	<string>Gallery View</string>
+	<key>List View</key>
+	<string>List View</string>
+	<key>Attendance</key>
+	<string>Attendance</string>
+	<key>Official Holidays</key>
+	<string>Official Holidays</string>
+	<key>New Dashboard</key>
+	<string>New Dashboard</string>
+	<key>Logout</key>
+	<string>Logout</string>
+	<key>Priyal Savaliya</key>
+	<string>Priyal Savaliya</string>
+	<key>ios</key>
+	<string>ios</string>
+</dict>
+</plist>

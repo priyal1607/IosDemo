@@ -1,0 +1,75 @@
+{
+  "PRAN": "110087900160",
+  "Email": "mailto:siddharth.gautam21@gmail.com",
+  "PhoneNumber": "9820670972",
+  "Tier1Details": [
+    {
+      "Sector": "CP",
+      "AccountType": "Tier-1",
+      "SchemeName": "SBI Pension Fund Scheme E - Tier I",
+      "InvestedAmount": "24825.46",
+      "NavDate": "18/09/2023",
+      "CurrentNav": "45.4369",
+      "BalanceUnits": "924.4685",
+      "CurrentAmount": "42004.98"
+    },
+    {
+      "Sector": "CP",
+      "AccountType": "Tier-1",
+      "SchemeName": "SBI Pension Fund Scheme C - Tier I",
+      "InvestedAmount": "19669.39",
+      "NavDate": "18/09/2023",
+      "CurrentNav": "37.4391",
+      "BalanceUnits": "658.1901",
+      "CurrentAmount": "24642.04"
+    },
+    {
+      "Sector": "CP",
+      "AccountType": "Tier-1",
+      "SchemeName": "SBI Pension Fund Scheme G - Tier I",
+      "InvestedAmount": "36955.12",
+      "NavDate": "18/09/2023",
+      "CurrentNav": "34.6844",
+      "BalanceUnits": "1283.0913",
+      "CurrentAmount": "44503.25"
+    }
+  ],
+  "Tier2Details": [
+    {
+      "Sector": "CP",
+      "AccountType": "Tier-2",
+      "SchemeName": "SBI Pension Fund Scheme E - Tier II",
+      "InvestedAmount": "379.68",
+      "NavDate": "18/09/2023",
+      "CurrentNav": "42.0468",
+      "BalanceUnits": "13.6442",
+      "CurrentAmount": "573.69"
+    },
+    {
+      "Sector": "CP",
+      "AccountType": "Tier-2",
+      "SchemeName": "SBI Pension Fund Scheme C - Tier II",
+      "InvestedAmount": "279.32",
+      "NavDate": "18/09/2023",
+      "CurrentNav": "33.4866",
+      "BalanceUnits": "9.9949",
+      "CurrentAmount": "334.69"
+    },
+    {
+      "Sector": "CP",
+      "AccountType": "Tier-2",
+      "SchemeName": "SBI Pension Fund Scheme G - Tier II",
+      "InvestedAmount": "513.89",
+      "NavDate": "18/09/2023",
+      "CurrentNav": "32.8890",
+      "BalanceUnits": "18.4376",
+      "CurrentAmount": "606.39"
+    }
+  ],
+  "Tier1TotalContribution": "81449.97",
+  "Tier2TotalContribution": "1172.89",
+  "Tier1TotalValue": "111150.27",
+  "Tier2TotalValue": "1514.77",
+  "Tier1XIRR": "10.60%",
+  "Tier2XIRR": "9.76%"
+}

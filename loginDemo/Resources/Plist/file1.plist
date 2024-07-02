@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>TitleKey</key>
+		<string>Profile Details</string>
+		<key>storyboardID</key>
+		<string>ProfileDetails</string>
+		<key>Image</key>
+		<string>profile.png</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>Allotted plot</string>
+		<key>storyboardID</key>
+		<string>Allottedplot</string>
+		<key>Image</key>
+		<string>ic_allotted_plot.png</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>Payment History</string>
+		<key>storyboardID</key>
+		<string>PaymentHistory</string>
+		<key>Image</key>
+		<string>ic_payment_history.png</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>Make Payment</string>
+		<key>storyboardID</key>
+		<string>MakePayment</string>
+		<key>Image</key>
+		<string>ic_make_payment.png</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>Due/Outstanding</string>
+		<key>storyboardID</key>
+		<string>Due/Outstanding</string>
+		<key>Image</key>
+		<string>mobile.png</string>
+	</dict>
+	<dict>
+		<key>TitleKey</key>
+		<string>Track Service</string>
+		<key>storyboardID</key>
+		<string>TrackService</string>
+		<key>Image</key>
+		<string>image_2023_05_18T07_16_07_130Z.png</string>
+	</dict>
+</array>
+</plist>

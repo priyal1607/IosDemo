@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-SemiBold.ttf">
+            <string>Poppins-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="BannerCollViewCell" customModule="loginDemo" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="267" height="194"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="267" height="194"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Xft-jg-Cns">
+                        <rect key="frame" x="16" y="16" width="235" height="162"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="AMQ-3l-fhP">
+                                <rect key="frame" x="0.0" y="0.0" width="235" height="162"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mI7-gU-DAh">
+                                <rect key="frame" x="16" y="129" width="203" height="28"/>
+                                <fontDescription key="fontDescription" name="Poppins-SemiBold" family="Poppins" pointSize="20"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="AMQ-3l-fhP" secondAttribute="trailing" id="5iA-FD-bvg"/>
+                            <constraint firstItem="AMQ-3l-fhP" firstAttribute="top" secondItem="Xft-jg-Cns" secondAttribute="top" id="A5Y-ee-YAc"/>
+                            <constraint firstItem="mI7-gU-DAh" firstAttribute="trailing" secondItem="AMQ-3l-fhP" secondAttribute="trailing" constant="-16" id="bhr-XE-ql1"/>
+                            <constraint firstItem="AMQ-3l-fhP" firstAttribute="leading" secondItem="Xft-jg-Cns" secondAttribute="leading" id="cvv-Re-bLG"/>
+                            <constraint firstAttribute="bottom" secondItem="AMQ-3l-fhP" secondAttribute="bottom" id="erg-u5-xbg"/>
+                            <constraint firstItem="mI7-gU-DAh" firstAttribute="bottom" secondItem="AMQ-3l-fhP" secondAttribute="bottom" constant="-5" id="evl-jJ-0ZY"/>
+                            <constraint firstItem="mI7-gU-DAh" firstAttribute="leading" secondItem="AMQ-3l-fhP" secondAttribute="leading" constant="16" id="uA0-wK-osA"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="Xft-jg-Cns" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="16" id="1Fg-7s-PEb"/>
+                <constraint firstAttribute="bottom" secondItem="Xft-jg-Cns" secondAttribute="bottom" constant="16" id="76r-eh-GLd"/>
+                <constraint firstItem="Xft-jg-Cns" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="16" id="BMR-YS-f7N"/>
+                <constraint firstAttribute="trailing" secondItem="Xft-jg-Cns" secondAttribute="trailing" constant="16" id="tnd-vN-XtU"/>
+            </constraints>
+            <size key="customSize" width="267" height="194"/>
+            <connections>
+                <outlet property="img" destination="AMQ-3l-fhP" id="gFi-X9-tLc"/>
+                <outlet property="lbl" destination="mI7-gU-DAh" id="Owm-ZQ-jb5"/>
+                <outlet property="mainView" destination="Xft-jg-Cns" id="Gtz-lH-Zqd"/>
+            </connections>
+            <point key="canvasLocation" x="222.13740458015266" y="39.436619718309863"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

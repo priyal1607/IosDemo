@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="142" id="KGk-i7-Jjw" customClass="BookMarkTblViewCell" customModule="loginDemo" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="368" height="142"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="368" height="142"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kNH-mY-Y3x">
+                        <rect key="frame" x="8" y="8" width="344" height="126"/>
+                        <color key="backgroundColor" red="0.66666666669999997" green="0.89019607840000003" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6nE-KL-4ug">
+                        <rect key="frame" x="16" y="8" width="336" height="126"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6yi-Qz-G18">
+                                <rect key="frame" x="10" y="10" width="317.66666666666669" height="40.666666666666664"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1pT-tx-eM9">
+                                <rect key="frame" x="10" y="55.666666666666657" width="37.333333333333336" height="18"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="33R-Ww-u07">
+                                <rect key="frame" x="303.66666666666669" y="54.666666666666657" width="22.333333333333314" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="FeF-ej-1Xn"/>
+                                    <constraint firstAttribute="width" secondItem="33R-Ww-u07" secondAttribute="height" multiplier="1:0.9" id="GJ9-kt-Am3"/>
+                                </constraints>
+                                <inset key="contentEdgeInsets" minX="3" minY="0.0" maxX="3" maxY="0.0"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="share"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ejc-6d-WSX">
+                                <rect key="frame" x="273.33333333333331" y="54.666666666666657" width="15.333333333333314" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="Ejc-6d-WSX" secondAttribute="height" multiplier="1:1.3" id="V5c-mV-fbm"/>
+                                </constraints>
+                                <color key="tintColor" red="0.66666666669999997" green="0.89019607840000003" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="ico_bookmark"/>
+                                <state key="selected" image="ico_bookmark_filled"/>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="6yi-Qz-G18" firstAttribute="top" secondItem="6nE-KL-4ug" secondAttribute="top" constant="10" id="4ge-xu-j5c"/>
+                            <constraint firstItem="Ejc-6d-WSX" firstAttribute="top" secondItem="33R-Ww-u07" secondAttribute="top" id="Hqh-GT-hLt"/>
+                            <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="1pT-tx-eM9" secondAttribute="bottom" constant="10" id="POz-W7-iir"/>
+                            <constraint firstItem="Ejc-6d-WSX" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="1pT-tx-eM9" secondAttribute="trailing" constant="10" id="TAY-0b-FpA"/>
+                            <constraint firstItem="1pT-tx-eM9" firstAttribute="leading" secondItem="6nE-KL-4ug" secondAttribute="leading" constant="10" id="UDz-1k-iyd"/>
+                            <constraint firstItem="6yi-Qz-G18" firstAttribute="leading" secondItem="6nE-KL-4ug" secondAttribute="leading" constant="10" id="X4H-yy-jGy"/>
+                            <constraint firstItem="Ejc-6d-WSX" firstAttribute="centerY" secondItem="1pT-tx-eM9" secondAttribute="centerY" id="d6t-Vh-Icu"/>
+                            <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="6yi-Qz-G18" secondAttribute="trailing" constant="5" id="gUv-VF-J87"/>
+                            <constraint firstItem="1pT-tx-eM9" firstAttribute="top" secondItem="6yi-Qz-G18" secondAttribute="bottom" constant="5" id="iWz-jz-0ta"/>
+                            <constraint firstAttribute="trailing" secondItem="33R-Ww-u07" secondAttribute="trailing" constant="10" id="j77-MN-Jfc"/>
+                            <constraint firstItem="Ejc-6d-WSX" firstAttribute="height" secondItem="33R-Ww-u07" secondAttribute="height" id="lmh-fx-Dro"/>
+                            <constraint firstItem="33R-Ww-u07" firstAttribute="leading" secondItem="Ejc-6d-WSX" secondAttribute="trailing" constant="15" id="xSo-PS-H3T"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="kNH-mY-Y3x" firstAttribute="bottom" secondItem="6nE-KL-4ug" secondAttribute="bottom" id="2bf-ip-O7R"/>
+                    <constraint firstAttribute="trailing" secondItem="6nE-KL-4ug" secondAttribute="trailing" constant="16" id="4Ks-hx-XER"/>
+                    <constraint firstItem="6nE-KL-4ug" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="Aq9-bs-c2L"/>
+                    <constraint firstAttribute="bottom" secondItem="6nE-KL-4ug" secondAttribute="bottom" constant="8" id="KiI-pb-APB"/>
+                    <constraint firstItem="6nE-KL-4ug" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="VUB-rf-etr"/>
+                    <constraint firstItem="kNH-mY-Y3x" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="hmY-t2-2WO"/>
+                    <constraint firstItem="kNH-mY-Y3x" firstAttribute="top" secondItem="6nE-KL-4ug" secondAttribute="top" id="iMX-lS-JLC"/>
+                    <constraint firstItem="kNH-mY-Y3x" firstAttribute="trailing" secondItem="6nE-KL-4ug" secondAttribute="trailing" id="qyl-df-Scd"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="bgView" destination="kNH-mY-Y3x" id="D61-wO-oho"/>
+                <outlet property="btnBookMark" destination="Ejc-6d-WSX" id="cAd-sk-dn1"/>
+                <outlet property="btnShare" destination="33R-Ww-u07" id="WEQ-xo-LbC"/>
+                <outlet property="lblDate" destination="1pT-tx-eM9" id="Tbu-HZ-cmh"/>
+                <outlet property="lblNote" destination="6yi-Qz-G18" id="7sQ-es-DWk"/>
+                <outlet property="mainView" destination="6nE-KL-4ug" id="8aI-vZ-Nat"/>
+            </connections>
+            <point key="canvasLocation" x="229.00763358778624" y="21.126760563380284"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="ico_bookmark" width="56" height="79"/>
+        <image name="ico_bookmark_filled" width="56" height="79"/>
+        <image name="share" width="128" height="128"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

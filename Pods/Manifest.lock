@@ -1,0 +1,35 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - GoogleMaps (6.2.1):
+    - GoogleMaps/Maps (= 6.2.1)
+  - GoogleMaps/Base (6.2.1)
+  - GoogleMaps/Maps (6.2.1):
+    - GoogleMaps/Base
+  - Hero (1.6.2)
+  - StreamingKit (0.1.30)
+
+DEPENDENCIES:
+  - FMDB
+  - GoogleMaps
+  - Hero
+  - StreamingKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - StreamingKit
+  trunk:
+    - FMDB
+    - GoogleMaps
+    - Hero
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  GoogleMaps: 20d7b12be49a14287f797e88e0e31bc4156aaeb4
+  Hero: c69009dbc9e2f0472e081adc644dba05fcedae72
+  StreamingKit: 70ca8608c206864b4d54a577eacb3c8bf7c72209
+
+PODFILE CHECKSUM: d60d6dbd2d0426189922b092016f82e314c23e0b
+
+COCOAPODS: 1.13.0

@@ -1,0 +1,88 @@
+{
+  "list": [
+    {
+      "_id": "1",
+      "color": "#FFD7C2",
+      "img": "bilateralMultilateralDocuments",
+      "lbl": "Outgoing visit",
+      "isSelected": false
+    },
+    {
+      "_id": "2",
+      "color": "#EFB6EA",
+      "img": "citizenCirculars",
+      "lbl": "Incoming visit",
+      "isSelected": false
+    },
+    {
+      "_id": "3",
+      "color": "#AAE3FA",
+      "img": "incomingVisits",
+      "lbl": "Virtual Meeting",
+      "isSelected": false
+    },
+    {
+      "_id": "4",
+      "color": "#FDBDBD",
+      "img": "Interviews",
+      "lbl": "Interviews",
+      "isSelected": false
+    },
+    {
+      "_id": "5",
+      "color": "#E0EA98",
+      "img": "lokShabha",
+      "lbl": "Speeches & Statements",
+      "isSelected": false
+    },
+    {
+      "_id": "6",
+      "color": "#EFB6EA",
+      "img": "mediaAdvisory",
+      "lbl": "Medis briefings",
+      "isSelected": false
+    },
+    {
+      "_id": "7",
+      "color": "#9EF3E4",
+      "img": "mediaAdvisory",
+      "lbl": "Interviews",
+      "isSelected": false
+    },
+    {
+      "_id": "8",
+      "color": "#C6C4F9",
+      "img": "rajyaShabha",
+      "lbl": "Rajya sabha Q&A",
+      "isSelected": false
+    },
+    {
+      "_id": "9",
+      "color": "#F5DCAC",
+      "img": "mediaAdvisory",
+      "lbl": "circlular\nnotifications\nvacancies",
+      "isSelected": false
+    },
+    {
+      "_id": "10",
+      "color": "#D6FAB1",
+      "img": "mediaAdvisory",
+      "lbl": "mediaAdvisory",
+      "isSelected": false
+    },
+    {
+      "_id": "11",
+      "color": "#FDBDBD",
+      "img": "mediaAdvisory",
+      "lbl": "Medis briefings",
+      "isSelected": false
+    },
+    {
+      "_id": "12",
+      "color": "#9EF3E4",
+      "img": "responseToMediaQueries",
+      "lbl": "response To MediaQueries",
+      "isSelected": false
+    }
+  ]
+}

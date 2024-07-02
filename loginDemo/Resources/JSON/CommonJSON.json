@@ -1,0 +1,273 @@
+{
+    "resultflag": 1,
+    "message": "Success message",
+    "data": [
+        {
+            "name": "Priyal Savaliya",
+            "dob": "01-04-2000",
+            "dept": "ios",
+            "id": "1",
+            "student_id" : "31235",
+            "gender": "Female",
+            "sem_one_grade": "7.26",
+            "sem_two_grade": "8.26",
+            "sem_three_grade": "6.26",
+            "sem_four_grade": "7.50",
+            "sem_five_grade": "8.00",
+            "sem_six_grade": "7.26",
+            "address": "2nd Floor, Saffron Tower, Panchvati Cir, opp. Central Mall, Panchavati Society, Gulbai Tekra, Ahmedabad, Gujarat 380006",
+            "phone_number": "0167042000",
+            "age": "20",
+            "sports_name" : "Badminton",
+            "image" : "image_4",
+            "docs" : [
+            {
+                "doc_name" : "Lc",
+                "doc_img" : "lc",
+            },
+            {
+                "doc_name" : "10th Result",
+                "doc_img" : "10th",
+            },
+            {
+                "doc_name" : "12th Result",
+                "doc_img" : "12th",
+            },
+            {
+                "doc_name" : "Aadhar Card",
+                "doc_img" : "Aadhar",
+            },
+            {
+                "doc_name" : "Degree Certificate",
+                "doc_img" : "Degree",
+            },
+            ]
+        },
+        {
+            "name": "Kashyap Patel",
+            "dob": "01-02-2000",
+            "dept": "ios",
+            "id": "2",
+            "student_id" : "31234",
+            "gender": "Male",
+            "sem_one_grade": "7.26",
+            "sem_two_grade": "8.26",
+            "sem_three_grade": "6.26",
+            "sem_four_grade": "7.50",
+            "sem_five_grade": "8.00",
+            "sem_six_grade": "8.26",
+            "address": "2nd Floor, Saffron Tower, Panchvati Cir, opp. Central Mall, Panchavati Society, Gulbai Tekra, Ahmedabad, Gujarat 380006",
+            "phone_number": "0167042000",
+            "age": "20",
+            "sports_name" : "Cricket",
+            "image" : "image_2",
+            "docs" : [
+            {
+                "doc_name" : "Lc",
+                "doc_img" : "lc",
+            },
+            {
+                "doc_name" : "10th Result",
+                "doc_img" : "10th",
+            },
+            {
+                "doc_name" : "12th Result",
+                "doc_img" : "12th",
+            },
+            {
+                "doc_name" : "Aadhar Card",
+                "doc_img" : "Aadhar",
+            },
+            {
+                "doc_name" : "Degree Certificate",
+                "doc_img" : "Degree",
+            },
+            ]
+        },
+        {
+            "name": "Panshul Mistry",
+            "dob": "01-03-2000",
+            "dept": "ios",
+            "id": "3",
+            "student_id" : "31236",
+            "gender": "Male",
+            "sem_one_grade": "7.26",
+            "sem_two_grade": "8.26",
+            "sem_three_grade": "6.26",
+            "sem_four_grade": "7.50",
+            "sem_five_grade": "8.00",
+            "sem_six_grade": "7.26",
+            "address": "2nd Floor, Saffron Tower, Panchvati Cir, opp. Central Mall, Panchavati Society, Gulbai Tekra, Ahmedabad, Gujarat 380006",
+            "phone_number": "0167042000",
+            "age": "20",
+            "sports_name" : "Cricket",
+            "image" : "image_3",
+            "docs" : [
+            {
+                "doc_name" : "Lc",
+                "doc_img" : "lc",
+            },
+            {
+                "doc_name" : "10th Result",
+                "doc_img" : "10th",
+            },
+            {
+                "doc_name" : "12th Result",
+                "doc_img" : "12th",
+            },
+            {
+                "doc_name" : "Aadhar Card",
+                "doc_img" : "Aadhar",
+            },
+            {
+                "doc_name" : "Degree Certificate",
+                "doc_img" : "Degree",
+            },
+            ]
+        },
+        {
+            "name": "Atharv Pandit",
+            "dob": "01-01-2000",
+            "dept": "ios",
+            "id": "4",
+            "student_id" : "31238",
+            "gender": "Male",
+            "sem_one_grade": "7.26",
+            "sem_two_grade": "8.26",
+            "sem_three_grade": "6.26",
+            "sem_four_grade": "7.50",
+            "sem_five_grade": "8.00",
+            "sem_six_grade": "7.26",
+            "address": "2nd Floor, Saffron Tower, Panchvati Cir, opp. Central Mall, Panchavati Society, Gulbai Tekra, Ahmedabad, Gujarat 380006",
+            "phone_number": "0167042000",
+            "age": "20",
+            "sports_name" : "Hocky",
+            "image" : "image_1",
+            "docs" : [
+            {
+                "doc_name" : "Lc",
+                "doc_img" : "lc",
+            },
+            {
+                "doc_name" : "10th Result",
+                "doc_img" : "10th",
+            },
+            {
+                "doc_name" : "12th Result",
+                "doc_img" : "12th",
+            },
+            {
+                "doc_name" : "Aadhar Card",
+                "doc_img" : "Aadhar",
+            },
+            {
+                "doc_name" : "Degree Certificate",
+                "doc_img" : "Degree",
+            },
+            ]
+        },
+    ],
+    "data1": {
+        "name": "Priyal Savaliya",
+        "dob": "01-04-2000",
+        "dept": "ios",
+        "id": "1",
+        "student_id" : "31235",
+        "gender": "Female",
+        "sem_one_grade": "7.26",
+        "sem_two_grade": "8.26",
+        "sem_three_grade": "6.26",
+        "sem_four_grade": "7.50",
+        "sem_five_grade": "8.00",
+        "sem_six_grade": "7.26",
+        "address": "2nd Floor, Saffron Tower, Panchvati Cir, opp. Central Mall, Panchavati Society, Gulbai Tekra, Ahmedabad, Gujarat 380006",
+        "phone_number": "0167042000",
+        "age": "20",
+        "sports_name" : "Badminton",
+        "image" : "image_4",
+        "docs" : [
+        {
+            "doc_name" : "Lc",
+            "doc_img" : "lc",
+        },
+        {
+            "doc_name" : "10th Result",
+            "doc_img" : "10th",
+        },
+        {
+            "doc_name" : "12th Result",
+            "doc_img" : "12th",
+        },
+        {
+            "doc_name" : "Aadhar Card",
+            "doc_img" : "Aadhar",
+        },
+        {
+            "doc_name" : "Degree Certificate",
+            "doc_img" : "Degree",
+        },
+        ]
+    },
+    "data2" : [
+            {
+                "image": "https://static.toiimg.com/thumb/msid-100411922,imgsize-35426,width-400,resizemode-4/100411922.jpg",
+                "title": "RBI expects return of most Rs 2,000 currency notes in circulation by September 30: RBI governor",
+                "time2" : "May 10, 2023",
+                "details" : "NEW DELHI: The National Company Law Appellate Tribunal (NCLAT) on Monday upheld an NCLT order allowing crisis-hit Go First's voluntary insolvency resolution proceedings.A two-member NCLAT bench asked several aircraft lessors of Go First opposing insolvency, to approach National Company Law Tribunal (NCLT) for any remedy.The order dated May 10, 2023 allowing insolvency is upheld ,said the NCLAT bench headed by Chairperson Justice Ashok BhushanThe ",
+            },
+            {
+                "image": "https://static.toiimg.com/thumb/msid-100285647,imgsize-2073506,width-400,resizemode-4/100285647.jpg",
+                "title": "73% job seekers prefer large corporates over startups: Report",
+                "time2" : "May 15, 2023",
+                "details" : "NEW DELHI: The National Company Law Appellate Tribunal (NCLAT) on Monday upheld an NCLT order allowing crisis-hit Go First's voluntary insolvency resolution proceedings.A two-member NCLAT bench asked several aircraft lessors of Go First opposing insolvency, to approach National Company Law Tribunal (NCLT) for any remedy.The order dated May 10, 2023 allowing insolvency is upheld ,said the NCLAT bench headed by Chairperson Justice Ashok BhushanThe ",
+            },
+            {
+                "image": "https://static.toiimg.com/thumb/msid-99990239,imgsize-782789,width-400,resizemode-4/99990239.jpg",
+                "title": "ISB CDO: Challenges of driving digitalisation in organisations",
+                "time2" : "May 15, 2023",
+                "details" : "NEW DELHI: The National Company Law Appellate Tribunal (NCLAT) on Monday upheld an NCLT order allowing crisis-hit Go First's voluntary insolvency resolution proceedings.A two-member NCLAT bench asked several aircraft lessors of Go First opposing insolvency, to approach National Company Law Tribunal (NCLT) for any remedy.The order dated May 10, 2023 allowing insolvency is upheld ,said the NCLAT bench headed by Chairperson Justice Ashok BhushanThe ",
+            },
+               {
+                 "image": "https://static.toiimg.com/thumb/msid-100419349,imgsize-23056,width-400,resizemode-4/100419349.jpg",
+                 "title": "Adani stocks power sensex, Nifty ahead of US debt ceiling talks",
+                 "time2" : "May 22, 2023",
+                 "details" : "NEW DELHI: The National Company Law Appellate Tribunal (NCLAT) on Monday upheld an NCLT order allowing crisis-hit Go First's voluntary insolvency resolution proceedings.A two-member NCLAT bench asked several aircraft lessors of Go First opposing insolvency, to approach National Company Law Tribunal (NCLT) for any remedy.The order dated May 10, 2023 allowing insolvency is upheld ,said the NCLAT bench headed by Chairperson Justice Ashok BhushanThe ",
+               },
+               {
+                 "image": "https://static.toiimg.com/thumb/msid-99611206,imgsize-189148,width-400,resizemode-4/99611206.jpg",
+                 "title": "Bitcoin drops about 4%, slips below $30,000 amid crypto selloff",
+                 "time2" : "Apr 19, 2023",
+                 "details" : "NEW DELHI: The National Company Law Appellate Tribunal (NCLAT) on Monday upheld an NCLT order allowing crisis-hit Go First's voluntary insolvency resolution proceedings.A two-member NCLAT bench asked several aircraft lessors of Go First opposing insolvency, to approach National Company Law Tribunal (NCLT) for any remedy.The order dated May 10, 2023 allowing insolvency is upheld ,said the NCLAT bench headed by Chairperson Justice Ashok BhushanThe ",
+               },
+               {
+                   "image": "https://static.toiimg.com/thumb/msid-100421636,imgsize-751750,width-400,resizemode-4/100421636.jpg",
+                   "title": "PhonePe bags another $100 million from General Atlantic",
+                   "time2" : "May 10, 2023",
+                   "details" : "NEW DELHI: The National Company Law Appellate Tribunal (NCLAT) on Monday upheld an NCLT order allowing crisis-hit Go First's voluntary insolvency resolution proceedings.A two-member NCLAT bench asked several aircraft lessors of Go First opposing insolvency, to approach National Company Law Tribunal (NCLT) for any remedy.The order dated May 10, 2023 allowing insolvency is upheld ,said the NCLAT bench headed by Chairperson Justice Ashok BhushanThe ",
+               },
+               {
+                 "image": "https://static.toiimg.com/thumb/msid-100419991,imgsize-1335750,width-400,resizemode-4/100419991.jpg",
+                 "title": "Stock markets climb for 2nd day on buying in IT stocks, Reliance Industries",
+                 "time2" : "May 22, 2023",
+                 "details" : "NEW DELHI: The National Company Law Appellate Tribunal (NCLAT) on Monday upheld an NCLT order allowing crisis-hit Go First's voluntary insolvency resolution proceedings.A two-member NCLAT bench asked several aircraft lessors of Go First opposing insolvency, to approach National Company Law Tribunal (NCLT) for any remedy.The order dated May 10, 2023 allowing insolvency is upheld ,said the NCLAT bench headed by Chairperson Justice Ashok BhushanThe ",
+               },
+               {
+                 "image": "https://static.toiimg.com/thumb/msid-98696887,imgsize-83636,width-400,resizemode-4/98696887.jpg",
+                 "title": "Sensex snaps 5-day losing streak on value-buying; Nifty closes near 17,000 level",
+                 "time2" : "May 22, 2023",
+                 "details" : "NEW DELHI: The National Company Law Appellate Tribunal (NCLAT) on Monday upheld an NCLT order allowing crisis-hit Go First's voluntary insolvency resolution proceedings.A two-member NCLAT bench asked several aircraft lessors of Go First opposing insolvency, to approach National Company Law Tribunal (NCLT) for any remedy.The order dated May 10, 2023 allowing insolvency is upheld ,said the NCLAT bench headed by Chairperson Justice Ashok BhushanThe ",
+               },
+               {
+                 "image": "https://static.toiimg.com/thumb/msid-98693024,imgsize-1196669,width-400,resizemode-4/98693024.jpg",
+                 "title": "Crypto investors pull $3 billion from stablecoin USDC in three days",
+                 "time2" : "May 22, 2023",
+                 "details" : "NEW DELHI: The National Company Law Appellate Tribunal (NCLAT) on Monday upheld an NCLT order allowing crisis-hit Go First's voluntary insolvency resolution proceedings.A two-member NCLAT bench asked several aircraft lessors of Go First opposing insolvency, to approach National Company Law Tribunal (NCLT) for any remedy.The order dated May 10, 2023 allowing insolvency is upheld ,said the NCLAT bench headed by Chairperson Justice Ashok BhushanThe ",
+               },
+               {
+                   "image": "https://static.toiimg.com/thumb/msid-100417564,imgsize-791997,width-400,resizemode-4/100417564.jpg",
+                   "title": "NCLAT upholds NCLT order allowing Go First's voluntary insolvency proceedings",
+                   "time2" : "May 15, 2023",
+                   "details" : "NEW DELHI: The National Company Law Appellate Tribunal (NCLAT) on Monday upheld an NCLT order allowing crisis-hit Go First's voluntary insolvency resolution proceedings.A two-member NCLAT bench asked several aircraft lessors of Go First opposing insolvency, to approach National Company Law Tribunal (NCLT) for any remedy.The order dated May 10, 2023 allowing insolvency is upheld ,said the NCLAT bench headed by Chairperson Justice Ashok BhushanThe ",
+               },
+            ]
+}
